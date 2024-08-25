@@ -34,15 +34,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tuo_username&show_icons=true&theme=radical" alt="Your GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tuo_username&theme=radical" alt="Your GitHub Streak"/>
-</p>
-
----
-
 ### 🏆 Achievements
 
 - 🏅 **Open Source Contributions:** Ho contribuito a progetti come [Nome Progetto] e [Nome Progetto].
