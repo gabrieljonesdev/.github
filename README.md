@@ -35,10 +35,8 @@
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/tuo_username"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/tuo_username"><img src="https://img.shields.io/badge/-Twitter-00acee?style=flat&logo=Twitter&logoColor=white"/></a>
-  <a href="https://dev.to/tuo_username"><img src="https://img.shields.io/badge/-Dev.to-000000?style=flat&logo=dev.to&logoColor=white"/></a>
-  <a href="mailto:tuo_email"><img src="https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/tuo_username"><img src="https://img.shields.io/badge/-instagram-FFC0CB"/></a>
+  <a href="mailto:gabriel.jones@mail.urp.gjdev.it"><img src="https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
 ---
