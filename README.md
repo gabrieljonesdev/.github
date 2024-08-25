@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello! I'm Gabriel Jones </h1>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/1234567/1234567890.png" alt="Your Profile Image" width="200"/>
+  <img src="[https://avatars.githubusercontent.com/u/179027181?s=200&v=4" alt="Your Profile Image" width="200"/>
 </p>
 
 <p align="center">
