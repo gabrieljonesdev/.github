@@ -12,12 +12,11 @@
 
 ### 🚀 About Me
 
-- 🎓 **Education:** [Laurea in Informatica / Master in XYZ] presso [Università ABC]
-- 💼 **Current Role:** [Il Tuo Titolo di Lavoro] presso [Nome Azienda]
-- 🌱 **Currently Learning:** [Tecnologia o Lingua che stai imparando] 
+- 🎓 **Competenze:** WordPress, MediaWiki, Html, CSS, js, git system, windows server, linux and more system
+- 💼 **Current Role:** Developer about website
+- 🌱 **Currently Learning:** Io attualmente studio lo sviluppo di siti dinamici in html e css 
 - 💬 **Ask me about:** [Tecnologie che padroneggi bene]
 - 😄 **Pronouns:** [He/Him, She/Her, They/Them]
-- 🎯 **Goals for 2024:** Contribuire a [Nome Progetto] e migliorare le mie competenze in [Tecnologia]
 
 ---
 
@@ -33,29 +32,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
 
 ---
-
-### 🏆 Achievements
-
-- 🏅 **Open Source Contributions:** Ho contribuito a progetti come [Nome Progetto] e [Nome Progetto].
-- 🌟 **Notable Projects:** 
-  - [Nome Progetto 1](link-al-progetto): Breve descrizione del progetto.
-  - [Nome Progetto 2](link-al-progetto): Breve descrizione del progetto.
-- 🥇 **Certifications:** [Nome Certificazione] da [Nome Organizzazione].
-
----
-
-### ✍️ Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Titolo del Blog Post 1](link-al-post)
-- [Titolo del Blog Post 2](link-al-post)
-- [Titolo del Blog Post 3](link-al-post)
-<!-- BLOG-POST-LIST:END -->
-
-[Visita il mio blog per saperne di più!](link-al-blog)
-
----
-
 ### 🌐 Connect with Me
 
 <p align="center">
